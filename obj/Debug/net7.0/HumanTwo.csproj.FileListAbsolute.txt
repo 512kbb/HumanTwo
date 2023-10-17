@@ -1,0 +1,15 @@
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\bin\Debug\net7.0\HumanTwo.exe
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\bin\Debug\net7.0\HumanTwo.deps.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\bin\Debug\net7.0\HumanTwo.runtimeconfig.json
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\bin\Debug\net7.0\HumanTwo.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\bin\Debug\net7.0\HumanTwo.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\obj\Debug\net7.0\HumanTwo.csproj.AssemblyReference.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\obj\Debug\net7.0\HumanTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\obj\Debug\net7.0\HumanTwo.AssemblyInfoInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\obj\Debug\net7.0\HumanTwo.AssemblyInfo.cs
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\obj\Debug\net7.0\HumanTwo.csproj.CoreCompileInputs.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\obj\Debug\net7.0\HumanTwo.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\obj\Debug\net7.0\refint\HumanTwo.dll
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\obj\Debug\net7.0\HumanTwo.pdb
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\obj\Debug\net7.0\HumanTwo.genruntimeconfig.cache
+C:\Users\yungv\bootcamp-codingdojo\csharp\HumanTwo\obj\Debug\net7.0\ref\HumanTwo.dll
